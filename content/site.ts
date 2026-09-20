@@ -36,7 +36,7 @@ export const site: SiteContent = {
     ],
     eventDetails: {
       address: "вул. Садова, 63, ательє «Тавіфа»",
-      date: "5 вересня 2026",
+      date: "26 вересня 2026",
       time: "13:00",
     },
     compare: {
@@ -145,7 +145,7 @@ export const site: SiteContent = {
 
   contacts: {
     address: "вул. Садова, 63, ательє «Тавіфа»",
-    hours: "5 вересня 2026, 13:00",
+    hours: "26 вересня 2026, 13:00",
     mapEmbed:
       "https://www.google.com/maps/d/viewer?mid=1D2HM5WsiomAIWQJzRbZIqzK0NvWKGww&femb=1&ll=50.59451543399187%2C32.38982935664687&z=16",
     social: [
